@@ -1,0 +1,240 @@
+/*
+Theme Name: Pernix
+Theme URI: https://pernixdata.ru
+Author: the WordPress team
+Author URI: https://pernixdata.ru/
+Description: Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, blue, gray, pink, purple, white, yellow, dark, light, two-columns, left-sidebar, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+Text Domain: twentyfifteen
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+p, li {
+	font-size: 14px;
+}
+
+a {
+	color: #ab2228;
+}
+
+h1 {
+	font-size: 19px;
+}
+
+.telline, .tel{
+	height: 40px;
+	background-color: #f5f5f5;
+}
+
+.navbar, .navbar-collapse {
+
+}
+
+.logobox {
+	padding-top: 5px;
+	width: 33.3333%;
+	float: left;
+}
+
+.menubox {
+  width: 66.6667%;
+}
+
+.menu {
+	text-align: right;
+	padding-right: 0px;
+	margin-right: 0px;
+}
+
+
+.resp {
+		padding-top: 15px;
+		padding-bottom: 15px;
+}
+
+.resp .menu-header {
+	text-align: right;
+	padding-left: 30px;
+	padding-right: 0px;
+	margin-right: 0px;
+}
+
+.resp .menu-header ul li {
+
+	padding-right: 40px;
+
+}
+
+.navbar-default {
+    background-color: #fff;
+
+}
+
+.header {
+	height: 90px;
+}
+
+.header .row {
+	padding-top: 30px;
+}
+
+.header .menu {
+	text-align: right;
+	padding-right: 0px;
+	margin-right: 0px;
+}
+
+.header .menu li {
+	display: inline-block;
+	padding-right: 40px;
+}
+
+.header .menu a {
+	font-size: 14px;
+	color: #33373c;
+	text-decoration: none;
+}
+
+.tel {
+	text-align: left;
+	padding-top: 10px;
+	font-size: 12px;
+}
+
+.glyphicon-earphone {
+	color: #ab2228;
+	padding-right: 3px;
+}
+
+.fa-phone {
+	color: #ab2228;
+}
+
+.slider {
+
+}
+
+.tp {
+    background-color: #f5f5f5;
+}
+
+.tm {
+	font-size: 11px;
+	color: #fff;
+}
+
+.title {
+	color: #ab2228;
+	height: 72px;
+	padding-top: 7px;
+	padding-left: 55px;
+
+}
+
+.title-page {
+    background: url(image/strelki.jpg) no-repeat;
+    background-color: #f5f5f5;
+}
+
+.breadcrumbs {
+	font-size: 12px;
+	margin-top: 15px;
+	margin-bottom: 30px;
+}
+
+.products {
+	margin-top: 30px;
+}
+
+.products h2,
+h2  {
+	font-weight: bold;
+	color: #ab2228;
+	font-size: 16px;
+}
+
+.pictures {
+	margin-top: 40px;
+}
+
+.pics {
+	height: 200px;
+	border: 1px solid #c7c8c9;
+	text-align: center;
+}
+
+.studies {
+	margin-bottom: 60px;
+}
+
+.separator {
+	text-align: center;
+	border-bottom: 1px solid #c7c8c9;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	clear: both;
+    height: 1px;
+}
+
+.separator div {
+    background-color: #ffffff;
+    display: inline-block;
+    padding: 1px 1em;
+    position: relative;
+    top: -15px;
+}
+
+.awards {
+	padding-top: 50px;
+	background: #f5f5f5;
+	height: 280px;
+}
+
+.owl-carousel img {
+
+/*
+width: 253px;
+	height: 190px;
+*/
+}
+
+.owl-carousel .owl-item{
+	padding-right: 2px;
+}
+
+
+.owl-carousel-item-imgtitle {
+    font-size: 16px;
+}
+
+
+.owl-theme {
+
+}
+
+.footer {
+	margin-top: 30px;
+	padding-top: 30px;
+	background: #2b2e34;
+}
+
+.menu-bottom {
+    padding-bottom: 5px;
+    line-height: 18px;
+    font-size: 12px;
+}
+
+.menu-bottom li {
+    display: inline;
+    padding-right: 20px;
+}
+
+#stcpDiv {
+ float: left;
+margin-right: 50px;
+}
